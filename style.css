@@ -1,0 +1,58 @@
+body{
+    background-image: url("ra.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+main {
+    display: flex;
+    flex-direction: row;
+  }
+
+.cont {
+    width: 80%;
+    padding-left: 30px;
+    padding-right: 20px;
+  }
+.acts{
+
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 85vh;
+    
+}
+.btn{
+    position: absolute;
+    background-image: url("88.jpg");
+    width:260px;
+    height:350px ;
+    border-radius: 5px ;
+    top: 150px;
+
+    
+}
+
+.mes{
+    border-radius: 5px;
+    width: 800px;
+    height: 500px;
+    
+}
+.title{
+    color: black;
+    background-color: azure;
+    border-radius: 5px;
+    width: 620px;
+    
+
+}
+.tit{
+    position: absolute;
+    color: black;
+    background-color: azure;
+    border-radius: 5px;
+    width: 230px;
+    top: 10px;
+}
